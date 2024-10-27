@@ -2,6 +2,7 @@ Idk what is going on here;
 I hate java script;
 what is a pull and how do I request it;
 I finally know how to change profile picture;
+Isn't repository a drug?
 ---
 
 - 👋 Hi, I’m @Thr-ice
